@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head-title{
+    font-size: 3rem;
+    color: blue;
+}
+
+.para1{
+    font-size: 1.5rem
+    ;
+}
+
+img{
+    width: 300px;
+}
+
+main{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    
+
+}
+
+.para2{
+    width: 300px ;
+}
+
+.contents{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sidebar{
+    display: flex;
+    font-size:x-large;
+    padding: 10px;
+}
+
+.box{
+    margin: 20px;
+}
+
+li{
+    color: darkmagenta;
+    list-style:symbols()
+}
+
+header, footer {
+    margin: 20px;
+}
+
+.foot-title{
+    font-size: 2rem;
+    color: blue;
+}

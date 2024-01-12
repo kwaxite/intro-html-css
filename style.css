@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+
+.arsenal-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 8px double red;
+    
+    /* border-style: double; */
+}
+
+h1, h2, h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+a{
+    font-size: x-large;
+}
+
+li{
+    color: green;
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+section{
+    margin: 30px;
+}
+
+h1{
+    border: 2px solid white;
+    padding: 20px;
+    background-color: blue;
+    color: whitesmoke;
+}
+.s1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
